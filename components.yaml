@@ -4,19 +4,24 @@ A:
 C:
   local: ./@C
   remote: ../C.git
+  branch: main
 
 G:
   local: ./E/F/@G
   remote: ../G.git
+  branch: main
 
 J:
   local: ./E/F/@G/H/I/@J
   remote: ../J.git
+  branch: main
 
 L:
   local: ./E/F/@G/H/I/@J/K/@L
   remote: ../L.git
+  branch: main
 
 M:
   local: ./E/F/@G/H/I/@J/K/@M
   remote: ../M.git
+  branch: main
