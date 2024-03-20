@@ -1,0 +1,22 @@
+A:
+  fixture: true
+
+C:
+  local: ./@C
+  remote: ../C.git
+
+G:
+  local: ./E/F/@G
+  remote: ../G.git
+
+J:
+  local: ./E/F/@G/H/I/@J
+  remote: ../J.git
+
+L:
+  local: ./E/F/@G/H/I/@J/K/@L
+  remote: ../L.git
+
+M:
+  local: ./E/F/@G/H/I/@J/K/@M
+  remote: ../M.git
