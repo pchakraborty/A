@@ -10,4 +10,4 @@ C:
 G:
   local: ./E/F/@G
   remote: ../G.git
-  branch: main
+  tag: update-J
