@@ -1,5 +1,6 @@
 A:
   fixture: true
+  develop: main
 
 C:
   local: ./@C
